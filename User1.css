@@ -1,0 +1,14 @@
+.one{
+    display: flex;
+    flex-direction: right;
+    justify-content: space-evenly;
+    background-color: rgb(0, 217, 255);
+    
+}
+
+#btn{
+    height: 40px;
+    width:100px;
+    background-color: blue;
+    color: white;
+}
